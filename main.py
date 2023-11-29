@@ -3,7 +3,7 @@ a = input('Would you like to see stars?')
 if a.lower() in ['yes']:
   print('************')
 
-  b = input('Were they beautiful? ')
+  b = input('Were they bright? ')
   if b.lower() in ['yes']:
     print('So is your smile, friend')
   else:
